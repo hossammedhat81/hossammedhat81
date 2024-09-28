@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hossam-medhat-79667a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hossammed7at/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hossammed7at/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 
@@ -30,11 +30,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hskaa&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hossammedhat81&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&cache_seconds=1800)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Hskaa&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hossammedhat81&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hskaa&theme=midnight-purple&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hossammedhat81&theme=midnight-purple&hide_border=false)
 
 
 <!-- ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png) -->
