@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBlajRlb3p4aThicGhkbWgxdTRyeXl0eGo2bnVkNGR3djh4M21xbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="100%" height="300"/>
+
 # 👨‍💻 Hossam Medhat Shokry
 
 ### Junior Machine Learning Engineer & Data Scientist @ Mansoura University
@@ -149,7 +151,7 @@ Personal portfolio showcasing projects:
 **C++ Development**
 
 Advanced C++ application:
-- Object-oriented design
+- Object-oriented programming
 - Performance optimization
 - Real-world problem solving
 
