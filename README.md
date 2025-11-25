@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-**Junior Machine Learning Engineer** and **Data Scientist** at **Mansoura University** with a passion for building intelligent systems and extracting actionable insights from data. I specialize in developing end-to-end ML pipelines, predictive models, and AI-powered solutions that drive real-world impact.
+**Junior Machine Learning Engineer** and **Data Scientist** at **Mansoura University** with a passion for building intelligent systems and extracting actionable insights from data. I specialize in developing end-to-end machine learning solutions, predictive analytics, and AI-driven applications.
 
 ```python
 class HossamMedhat:
@@ -42,6 +42,38 @@ me.say_hi()
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+### 🎓 **DEPI Graduation Project** ⭐
+**🔥 Capstone ML Engineering Project | End-to-End Solution**
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+**A comprehensive Machine Learning project demonstrating full-stack ML engineering capabilities including data pipeline, model development, deployment, and production-ready implementation.**
+
+**Key Highlights:**
+- 🎯 **Complete ML Lifecycle**: From data preprocessing to model deployment
+- 🧠 **Advanced Algorithms**: State-of-the-art machine learning techniques
+- 📊 **Data Engineering**: Robust ETL pipelines and feature engineering
+- 🚀 **Production Ready**: Scalable architecture and best practices
+- 📈 **Performance Metrics**: Comprehensive evaluation and monitoring
+
+[![View Project](https://img.shields.io/badge/🔗_View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossammedhat81/DEPI_Graduation_Project)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Category](https://img.shields.io/badge/Category-ML_Engineering-blueviolet?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📦 **More Projects**
 
 <table>
 <tr>
@@ -260,11 +292,12 @@ mindmap
 
 ## 🏆 Achievements & Stats
 
-- 📚 **9+ ML/Data Science Projects** - From concept to deployment
+- 📚 **10+ ML/Data Science Projects** - From concept to deployment
 - 🎓 **Specialized in AI & Data Science** - Mansoura University
 - 💻 **End-to-End ML Pipelines** - Production-ready implementations
 - 🔬 **Research Focus** - Machine Learning, NLP, and Predictive Analytics
 - 📊 **Data-Driven Solutions** - Real-world business impact
+- 🎖️ **DEPI Graduate** - Advanced ML Engineering Program
 
 ---
 
