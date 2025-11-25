@@ -253,6 +253,30 @@ Advanced C++ application:
 ## 🎓 Current Learning Path
 
 ```mermaid
+
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#525e75',
+  'primaryTextColor':'#f8f9fa',
+  'primaryBorderColor':'#8b9bb3',
+  'lineColor':'#8b9bb3',
+  'secondaryColor':'#78938a',
+  'tertiaryColor':'#92a9bd',
+  'mainBkg':'#525e75',
+  'secondBkg':'#78938a',
+  'border1':'#8b9bb3',
+  'border2':'#a5b8c9',
+  'note':'#92a9bd',
+  'noteBorder':'#a5b8c9',
+  'noteBkgColor':'#78938a',
+  'noteTextColor':'#f8f9fa',
+  'textColor':'#f1f3f5',
+  'fontSize':'15px',
+  'fontFamily':'Inter, system-ui, sans-serif',
+  'nodeBorder':'#a5b8c9',
+  'clusterBkg':'#445062',
+  'clusterBorder':'#8b9bb3',
+  'titleColor':'#dde5ed'
+}}}%%
 mindmap
   root((AI & ML Journey))
     Deep Learning
