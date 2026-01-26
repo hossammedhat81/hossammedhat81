@@ -4,11 +4,11 @@
 
 # 👨‍💻 Hossam Medhat Shokry
 
-### Junior Machine Learning Engineer & Data Scientist @ Mansoura University
+### Data Scientist & ML Engineer | Mechatronics Engineering @ Mansoura University | GPA: 3.85/4.0
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossammed7at/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossammedhat81@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hossammed7at/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=apple&logoColor=white)](mailto:hossammedhat81@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hossammedhat81.github.io/HossamMedhatportfolio.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossammedhat81)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hossammedhat81&label=Profile%20Views&color=blueviolet&style=for-the-badge)
@@ -19,36 +19,48 @@
 
 ## 🎯 About Me
 
-**Data Scientist & Machine Learning Engineer** specializing in building **production-ready ML pipelines** that solve real-world business problems. With hands-on experience in **telecom analytics**, **customer behavior modeling**, and **end-to-end data science workflows**, I transform large-scale datasets into actionable insights that drive measurable business impact.
+**Mechatronics Engineering Senior Student (GPA 3.85/4.0)** at Mansoura University with a strong passion for **Data Science & AI**. I gained hands-on industry experience as a **Data Science Trainee at e& Egypt**, where I worked on telecom datasets, customer segmentation, and predictive modeling with **2M+ customer records**. Currently serving as **Technical Director of the Luminous Team**, I have led training programs for **200+ students** and co-organized large-scale tech events.
+
+My unique background combines **engineering principles with data science expertise**, enabling me to build intelligent systems that solve real-world problems. I thrive at the intersection of engineering and analytics, delivering end-to-end ML solutions that create measurable business impact.
 
 **Core Competencies:**
-- 📊 **Data-Driven Problem Solving**: End-to-end ML pipelines from data exploration to model deployment
-- 🎯 **Business Impact Focus**: Churn prediction, customer segmentation, and predictive analytics for telecom and enterprise
-- 🚀 **Production ML Systems**: Scalable architectures, MLOps practices, and real-world deployment strategies
-- 💡 **Technical Depth**: Advanced feature engineering, ensemble methods, and state-of-the-art algorithms
-- 📈 **Analytics Expertise**: Large-scale dataset handling, SQL optimization, and comprehensive EDA
+- 📊 **Data-Driven Problem Solving**: End-to-end ML pipelines from data exploration to production deployment
+- 🎯 **Business Impact Focus**: Churn prediction (85%+ accuracy), customer segmentation, and predictive analytics for telecom
+- 🚀 **Production ML Systems**: Scalable architectures, MLOps practices, and real-world deployment (Streamlit apps, APIs)
+- 💡 **Technical Depth**: Advanced feature engineering, ensemble methods (XGBoost, LightGBM), SQL optimization
+- 📈 **Analytics Expertise**: Large-scale dataset handling (2M+ records), comprehensive EDA, storytelling with data
+- 👥 **Leadership**: Trained 200+ students, managed technical teams, delivered workshops and technical sessions
 
 ```python
 class HossamMedhat:
     def __init__(self):
         self.name = "Hossam Medhat Shokry"
+        self.education = "Mechatronics Engineering @ Mansoura University | GPA: 3.85/4.0"
         self.role = "Data Scientist & ML Engineer"
-        self.education = "Mansoura University - AI & Data Science"
         self.experience = {
-            "e_and_egypt_intern": "Data Science | Telecom Analytics",
+            "e_and_egypt": "Data Science Trainee | Telecom Analytics (3 months)",
+            "luminous_team": "Technical Director | Trained 200+ Students",
+            "depi": "Digital Egypt Pioneers Initiative Graduate",
             "specialization": ["Churn Prediction", "Customer Segmentation", "Predictive Modeling"],
             "focus": "End-to-End ML Pipelines & Business Intelligence"
         }
         self.tech_stack = {
             "languages": ["Python", "SQL", "C++"],
-            "ml_frameworks": ["Scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
+            "ml_frameworks": ["Scikit-learn", "XGBoost", "LightGBM", "TensorFlow", "PyTorch"],
             "data_tools": ["Pandas", "NumPy", "SQL", "Jupyter"],
-            "visualization": ["Matplotlib", "Seaborn", "Plotly"],
+            "visualization": ["Matplotlib", "Seaborn", "Plotly", "Streamlit"],
             "mlops": ["Docker", "Git", "Linux"]
+        }
+        self.achievements = {
+            "ieee_award": "1st Place - IEEE Mansoura Victories III (CrashXpert)",
+            "students_trained": "200+",
+            "gpa": "3.85/4.0"
         }
     
     def career_objective(self):
-        return "Seeking Data Science/ML Engineering roles where I can leverage my expertise in predictive modeling, large-scale data analytics, and production ML systems to deliver measurable business value."
+        return """Seeking Data Science/ML Engineering roles where I can leverage my 
+        technical expertise, engineering mindset, and passion for innovation to 
+        contribute to impactful projects in AI, big data, and intelligent systems."""
 
 me = HossamMedhat()
 print(me.career_objective())
@@ -58,27 +70,52 @@ print(me.career_objective())
 
 ## 💼 Professional Experience
 
-### 📱 **Data Science Intern** | e& Egypt (Formerly Etisalat)
-*Telecommunications & Digital Analytics*
+### 📱 **Data Science Trainee** | e& Egypt (Formerly Etisalat)
+*August 2025 - October 2025 (3 months) | Cairo, Egypt*
 
-- 🎯 **Churn Prediction Modeling**: Developed predictive models to identify at-risk customers, achieving **85%+ accuracy** in churn prediction using ensemble methods
-- 📊 **Customer Segmentation**: Applied K-means clustering on **500K+ customer records** to identify distinct user segments for targeted marketing campaigns
-- 💡 **Business Intelligence**: Created data-driven insights that informed retention strategies and reduced customer churn by **15%**
-- 🔍 **Large-Scale Data Analysis**: Processed and analyzed telecom datasets with **millions of records** using SQL and Python (Pandas, NumPy)
-- 📈 **Feature Engineering**: Designed 30+ behavioral and usage-based features from raw telecom data to improve model performance
-- 🚀 **End-to-End Pipeline**: Built complete ML workflows from data extraction to model deployment and monitoring
+**One-month intensive training + Two-month extended phase for top performers**
 
-**Key Technologies**: Python, SQL, Scikit-learn, XGBoost, Pandas, Matplotlib, Jupyter Notebooks
+Completed a comprehensive Data Science program at e& Egypt, applying advanced ML techniques to real-world telecom datasets in a collaborative, industry-focused environment.
+
+**Main Contributions:**
+- 🎯 **Churn Prediction System**: Delivered end-to-end ML pipeline for Expresso Africa dataset with **2M+ customers**, achieving **85%+ accuracy** using ensemble methods (XGBoost, LightGBM)
+- 📊 **Customer Segmentation**: Developed K-means clustering models on credit card data to enhance targeting strategies and identify high-value customer segments
+- 🔍 **SQL Data Workflows**: Built efficient SQL queries to extract, clean, and analyze large telecom datasets for actionable business insights
+- 🚀 **ML Deployment**: Deployed Streamlit web application for real-time churn risk visualization and customer analytics dashboard
+- 📈 **Feature Engineering**: Created 30+ behavioral and usage-based features from raw telecom data to improve model performance
+- 💼 **Business Impact**: Linked data solutions directly to business value, informing retention strategies and marketing campaigns
+
+**Key Technologies**: Python, SQL, Scikit-learn, XGBoost, LightGBM, Pandas, Streamlit, Jupyter Notebooks
+
+---
+
+### 🎓 **Technical Director** | Luminous Team - Mansoura University
+*September 2024 - October 2025 (1 year 2 months) | El Mansoura, Egypt*
+
+Led technical initiatives and training programs for a university-wide technology team, fostering innovation and skill development.
+
+**Leadership Achievements:**
+- 👥 **Trained 200+ Students**: Designed and delivered comprehensive technical training programs in software development and data science
+- 🎤 **Technical Sessions**: Conducted workshops and seminars on ML, programming, and emerging technologies
+- 🎯 **Event Organization**: Co-organized large-scale tech events and hackathons for university community
+- 💡 **Mentorship**: Provided guidance and mentorship to team members on technical projects and career development
+- 🏆 **Team Leadership**: Managed cross-functional teams and coordinated technical initiatives
+
+*Previous Role: Member Technical Staff & HR (April 2023 - August 2024)*
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** | Mansoura University  
-*Specialization: Artificial Intelligence & Data Science*  
-- 🏆 **DEPI Graduate** - Digital Egypt Pioneers Initiative (Advanced ML Engineering Program)
-- 📚 Relevant Coursework: Machine Learning, Deep Learning, Data Mining, Statistical Analysis, Algorithms
-- 🔬 Research Focus: Predictive Analytics, Natural Language Processing, Computer Vision
+**Bachelor of Engineering in Mechatronics Engineering** | Mansoura University  
+*June 2021 - Present | GPA: 3.85/4.0*  
+*Specialization: Robotics, Automation, and AI Systems*
+
+- 🏆 **Outstanding Academic Performance**: 3.85/4.0 GPA demonstrating excellence in engineering and technical coursework
+- 🎓 **DEPI Graduate** - Digital Egypt Pioneers Initiative (Data Science Program, June 2025 - December 2025)
+- 📚 **Relevant Coursework**: Control Systems, Embedded Systems, Machine Learning, Data Structures, Algorithm Design, Statistical Analysis
+- 🔬 **Research Focus**: Intersection of Mechatronics and AI - Predictive Analytics, IoT Systems, Computer Vision
+- 💡 **Technical Integration**: Combining engineering principles with data science for intelligent systems
 
 ---
 
@@ -292,6 +329,56 @@ Design and deploy a production-grade machine learning system that handles the en
 
 ---
 
+### 🔧 Engineering & IoT Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 **CrashXpert** 🥇
+**IoT & Embedded Systems | 1st Place IEEE Award**
+
+**Problem**: Design an intelligent accident detection and emergency response system for vehicles.
+
+**Solution**: IoT-based system combining sensors, embedded systems, and real-time communication for automatic crash detection and emergency notification.
+
+**Key Features**:
+- 🎯 Real-time accident detection using accelerometer and gyroscope sensors
+- 📱 Automatic emergency notifications to contacts and emergency services
+- 📍 GPS location tracking for rapid response
+- 🔔 Alert system with SMS and app notifications
+- 💡 Low-power design for always-on operation
+
+**Achievement**: **🥇 1st Place** at **IEEE Mansoura Victories III** competition
+
+**Tech Stack**: C++, Arduino/Embedded C, IoT Sensors, GPS Module, GSM Communication
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/hossammedhat81/CrashXpert)
+
+</td>
+<td width="50%">
+
+### 🌐 **Portfolio Website**
+**Web Development | Personal Branding**
+
+Professional portfolio website showcasing projects and achievements:
+- 📱 Fully responsive design (Mobile, Tablet, Desktop)
+- 🎨 Modern UI/UX with smooth animations
+- 📂 Project showcase with detailed descriptions
+- 📧 Contact form and social media integration
+- ⚡ Optimized performance and SEO
+
+**Tech Stack**: HTML5, CSS3, SCSS, JavaScript
+
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github)](https://github.com/hossammedhat81/HossamMedhatportfolio.github.io)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=google-chrome)](https://hossammedhat81.github.io/HossamMedhatportfolio.github.io/)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -462,19 +549,20 @@ Translating complex data insights into actionable business recommendations. Trac
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-### 🎖️ Professional Certifications & Training
+### 🎖️ Professional Training & Experience
 
 <table>
 <tr>
 <td width="50%">
 
 #### 🎓 **DEPI - Digital Egypt Pioneers Initiative**
-**Advanced ML Engineering Program**
-- Comprehensive 6-month intensive bootcamp
+**Data Science Program (7 months)**
+*June 2025 - December 2025*
+- Comprehensive ML engineering bootcamp
 - End-to-end ML pipeline development
 - Capstone project: Production-ready ML system
 - Focus: MLOps, deployment, and scalability
@@ -482,47 +570,70 @@ Translating complex data insights into actionable business recommendations. Trac
 </td>
 <td width="50%">
 
-#### 📱 **e& Egypt Data Science Internship**
-**Telecommunications Analytics**
-- Hands-on experience with real telecom datasets
-- Churn prediction and customer analytics
-- Large-scale data processing (500K+ records)
-- Business impact: 15% improvement in retention
+#### 📱 **e& Egypt Data Science Program**
+**Telecommunications Analytics (3 months)**
+*August 2025 - October 2025*
+- Industry training + extended phase for top performers
+- Hands-on with real telecom datasets (2M+ customers)
+- Churn prediction and customer segmentation
+- Deployed Streamlit app for real-time analytics
 
 </td>
 </tr>
 </table>
 
-### 🏅 Key Achievements
+### 🏅 Awards & Leadership
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 📊 **10+ DS Projects**
-End-to-end data science projects with real-world impact
+### 🥇 **1st Place**
+**IEEE Mansoura Victories III**  
+CrashXpert: IoT-based accident detection system
 
 </td>
 <td align="center" width="33%">
 
-### 🎯 **85%+ Model Accuracy**
-Achieved high-performance predictive models across multiple domains
+### 👥 **200+ Students Trained**
+**Technical Director @ Luminous Team**  
+Led training programs and technical workshops
 
 </td>
 <td align="center" width="33%">
 
-### 📈 **500K+ Records**
-Experience processing large-scale datasets in production
+### 🎓 **GPA: 3.85/4.0**
+**Outstanding Academic Performance**  
+Mechatronics Engineering @ Mansoura University
+
+</td>
+</tr>
+</table>
+
+### 📊 Project Impact Metrics
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📈 **2M+ Records**
+Processed large-scale telecom datasets in production
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 **85%+ Accuracy**
+Achieved high-performance predictive models
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **10+ DS Projects**
+End-to-end ML projects with real-world impact
 
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-
-### 🚀 **Production ML Systems**
-Deployed scalable ML pipelines with MLOps best practices
-
-</td>
 <td align="center" width="33%">
 
 ### 💡 **Business Value**
@@ -532,19 +643,27 @@ Delivered measurable ROI through data-driven solutions
 <td align="center" width="33%">
 
 ### 🔬 **Research Focus**
-Active research in predictive analytics and NLP
+Predictive analytics, NLP, and intelligent systems
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ **Production ML**
+Deployed scalable systems with MLOps best practices
 
 </td>
 </tr>
 </table>
 
-### 📚 Continuous Learning
+### 📚 Continuous Learning & Skills Development
 
 - 🤖 **Machine Learning Specialization** - Advanced algorithms and techniques
 - 📊 **Data Analysis with Python** - Statistical analysis and visualization
 - 🧠 **Deep Learning** - Neural networks, CNNs, RNNs, Transformers
 - 🚀 **MLOps & Deployment** - Production ML systems and best practices
 - 💼 **SQL for Data Science** - Advanced query optimization and database design
+- 🎯 **Feature Engineering** - Advanced techniques for model improvement
+- 📈 **Business Intelligence** - Storytelling with data and strategic analytics
 
 </div>
 
@@ -557,38 +676,45 @@ Active research in predictive analytics and NLP
 ### 🎯 **Open to Opportunities**
 
 I'm actively seeking **Data Science**, **Machine Learning Engineer**, and **Analytics** roles where I can apply my expertise in:
-- 📊 Predictive modeling and advanced analytics
-- 🚀 End-to-end ML pipeline development
+- 📊 Predictive modeling and advanced analytics on large-scale datasets
+- 🚀 End-to-end ML pipeline development and deployment
 - 💼 Business intelligence and data-driven decision making
-- 🔬 Research and innovation in AI/ML
+- 🔬 Research and innovation in AI/ML and intelligent systems
+- 🤝 Cross-functional collaboration combining engineering and data science
 
-### 📞 **Contact Me**
+### 📞 **Get In Touch**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossammed7at/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossammedhat81@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hossammedhat81@icloud.com-D14836?style=for-the-badge&logo=apple&logoColor=white)](mailto:hossammedhat81@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hossammedhat81.github.io/HossamMedhatportfolio.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossammedhat81)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hossammed7at/)
 
 ### 💡 **Collaboration Interests**
 
-✨ **Data Science Projects** | 🤖 **ML Research** | 📊 **Analytics Solutions** | 🚀 **MLOps Initiatives** | 💼 **Business Intelligence**
+✨ **Data Science Projects** | 🤖 **ML Research** | 📊 **Analytics Solutions** | 🚀 **MLOps Initiatives** | 💼 **Business Intelligence** | 🔧 **IoT & Smart Systems**
 
 ---
 
-### 📄 **Portfolio Highlights**
+### 📄 **What Makes Me Stand Out**
 
-✅ **Real-World Experience**: Telecom analytics with measurable business impact  
-✅ **Technical Depth**: End-to-end ML pipelines from EDA to deployment  
-✅ **Diverse Projects**: Classification, regression, clustering, NLP, time series  
-✅ **Production Ready**: MLOps practices, Docker, APIs, monitoring  
-✅ **Business Focused**: ROI-driven solutions with clear metrics  
+✅ **Unique Background**: Mechatronics Engineering + Data Science (GPA 3.85/4.0)  
+✅ **Real-World Experience**: e& Egypt internship with 2M+ customer records & measurable impact  
+✅ **Technical Leadership**: Trained 200+ students as Technical Director of Luminous Team  
+✅ **Award-Winning Projects**: 1st Place IEEE competition winner (CrashXpert)  
+✅ **Technical Depth**: End-to-end ML pipelines from EDA to production deployment  
+✅ **Diverse Skillset**: Predictive modeling, NLP, computer vision, IoT, embedded systems  
+✅ **Business Focus**: ROI-driven solutions with clear metrics and measurable results  
+✅ **Production Experience**: Deployed ML systems with Streamlit, Docker, and APIs
 
 ---
 
-*"Transforming data into insights, insights into impact"*
+*"Transforming data into insights, insights into impact, impact into innovation"*
 
 ### 🌟 **Available For**
-Full-time Data Science Roles | ML Engineering Positions | Internships | Research Collaborations | AI/ML Consulting
+
+**Full-time Roles**: Data Scientist | ML Engineer | Analytics Engineer | Business Intelligence Analyst  
+**Opportunities**: Internships | Graduate Programs | Research Collaborations | Consulting Projects  
+**Industries**: Tech | Telecom | Healthcare | Finance | E-commerce | AI Startups
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
